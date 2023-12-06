@@ -1,12 +1,3 @@
----
-title: latex测试使用的文档
-date: '2023-12-06 22:41:24'
-updated: '2023-12-06 22:42:20'
-permalink: /post/latex-test-documents-bssx9.html
-comments: true
-toc: true
----
-
 # latex测试使用的文档
 
 your profile
@@ -15,7 +6,7 @@ profile有个人档案的意思
 
 新建仓库
 
-​![image](assets/image-20231206222844-sd0glgm.png)​
+​![image](https://assets.b3logfile.com/siyuan/1674093793208/assets/image-20231206222844-sd0glgm.png)​
 
 ‍
 
@@ -45,7 +36,7 @@ profile有个人档案的意思
 
 ‍
 
-​![image](assets/image-20231206224149-apmznft.png)​
+​![image](https://assets.b3logfile.com/siyuan/1674093793208/assets/image-20231206224149-apmznft.png)​
 
 # 四页
 
