@@ -1,0 +1,12 @@
+%% 准备原始数据和插值数据
+x=-pi:pi;
+y=sin(x);
+x_interpolation=-pi:0.01:pi;
+
+%% 插值
+p_pchip=pchip(x,y,x_interpolation);   % 三次埃尔米特插值
+p_spline=spline(x,y,x_interpolation);   % 三次样条插值
+
+%% 画出插值的函数
+plot(x,y,'o.',x_interpolation,p_pchip,'x.',x_interpolation,p_spline,'x.');
+legend('原始数据','三次埃尔米特插值','三次样条插值');
